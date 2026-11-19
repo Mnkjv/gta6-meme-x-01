@@ -36,3 +36,5 @@ palm trees and a pink retro sports car, captioned:
 python3 compose.py   # rebuild meme.png from scene.webp
 node main.ts         # copies POST.json into ./out
 ```
+
+Caption font: Anton by Vernon Adams, licensed under the SIL Open Font License 1.1.
